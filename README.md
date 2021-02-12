@@ -6,4 +6,4 @@ Took me a while to figure out that you have to chose **either** one frame or ful
 
 Tested both to see effects in the resulting programme size. Fact is: it hardly makes a difference.
 
-BTW, if you're scouting for a small footprint Graphics lib: check bitbank2/ss:oled -- it will run on a µCPU as small as a ATTINY 85 !
+BTW, if you're scouting for a small footprint Graphics lib: check  [bitbank2/ss:oled!](https://github.com/bitbank2/ss_oled) -- it will run on a µCPU as small as a ATTINY 85 !
